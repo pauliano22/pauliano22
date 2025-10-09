@@ -147,7 +147,7 @@ Enhanced UI for education platform. Built SSO auth for 95% of student sessions. 
 
 ![](https://komarev.com/ghpvc/?username=pauliano22&color=red&style=flat-square&label=Profile+Views)
 
-⭐️ From [pauliano22](https://github.com/pauliano22) • Built with ☕ and 💪
+⭐️ From [pauliano22](https://github.com/pauliano22) • Built with 💘
 
 </div>## Hi there 👋
 
