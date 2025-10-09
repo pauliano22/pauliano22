@@ -34,7 +34,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </details>
@@ -118,12 +118,6 @@ Enhanced UI for education platform. Built SSO auth for 95% of student sessions. 
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauliano22&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🎯 Currently
@@ -147,21 +141,6 @@ Enhanced UI for education platform. Built SSO auth for 95% of student sessions. 
 
 ![](https://komarev.com/ghpvc/?username=pauliano22&color=red&style=flat-square&label=Profile+Views)
 
-⭐️ From [pauliano22](https://github.com/pauliano22) • Built with 💘
+⭐️ From [pauliano22](https://github.com/pauliano22) • Built with ☕ and 💪
 
-</div>## Hi there 👋
-
-<!--
-**pauliano22/pauliano22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
